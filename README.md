@@ -59,31 +59,8 @@ Hey there! I'm Muhammadxon 👋, a C++ Enthusiast and Flutter Developer who's pa
 🤖 AI Technologies - Interested in learning AI and applying it to real-world applications.
 💻 User Experience - Developing ideas that enhance user engagement and solve real-world problems.
 
-## 🤝 Let's Connect!
-
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/Mr_Muhammadxon)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/wd.human)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinprofile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourtwitterhandle)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web&logoColor=white)](https://yourportfolio.com)  
 
 
-
-🚀 Future Goals & Vision
-🌱 Continuous Growth - I aim to learn new technologies every day and improve my skills.
-
-🌐 Innovative Solutions - I’m focused on developing platforms in AI, Mobile Development, and Startups that help address environmental and societal challenges.
-
-🎓 Education Improvement - I envision creating tools that help students gain practical experience through virtual internships and project-based learning.
-
-🏆 Achieving My Dream - Football is a big part of my life and I aim to turn my passion into a professional career!
-
-🌟 "Innovation is key to making a difference!" 🌟
-
-🔥 Fun Fact
-💡 Did you know? The first website ever created is still online! Check it out: info.cern.ch 🌍
-
-🤝 Let's Connect!
 
 
 
