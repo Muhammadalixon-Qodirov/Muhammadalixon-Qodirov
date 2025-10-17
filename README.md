@@ -8,7 +8,7 @@
       | |  | |  __/\ V /| | (_) | |_    
       |_|  |_|\___| \_/ |_|\___/ \__|
 
-Hey there! I'm Muhammadxon 👋, a C++ Enthusiast and Flutter Developer who's passionate about creating mobile apps and exploring innovative solutions for societal challenges. 🚀
+Hey there! I'm Muhammadalixon 👋, a C++ Enthusiast and Flutter Developer who's passionate about creating mobile apps and exploring innovative solutions for societal challenges. 🚀
 
 🚀 **Frontend:**  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
