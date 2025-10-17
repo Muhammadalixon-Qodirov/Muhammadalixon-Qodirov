@@ -37,16 +37,16 @@ Hey there! I'm Muhammadalixon 👋, a C++ Enthusiast and Flutter Developer who's
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammadxon2oo7&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammadalixon&show_icons=true&theme=radical"/>
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadxon2oo7&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadalixon&theme=radical"/>
 </td>
 </tr>
 </table>
 
 🏆 **Trophies:**  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammadxon2oo7&theme=radical&margin-w=15&margin-h=15)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammadalixon&theme=radical&margin-w=15&margin-h=15)  
 
 ---
 
